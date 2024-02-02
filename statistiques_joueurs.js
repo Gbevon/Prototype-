@@ -2,7 +2,7 @@ const { zokou } = require('../framework/zokou');
 
 zokou(
     {
-        nomCom: 'statistiques joueurs',
+        nomCom: 'statistiques_joueurs.js',
         categorie: 'world of hiden blue'
     },
     async (dest, zk, commandeOptions) => {
