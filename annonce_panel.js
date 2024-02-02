@@ -2,7 +2,7 @@ const { zokou } = require('../framework/zokou');
 
 zokou(
     {
-        nomCom: 'annonce',
+        nomCom: 'annonce panel',
         categorie: 'World of Hiden blue'
     },
     async (dest, zk, commandeOptions) => {
